@@ -1,0 +1,13 @@
+Question 8
+Define a class to accept values in an integer array of size 10.
+Find the sum of one-digit numbers and the sum of two-digit numbers entered. 
+Display them separately.
+
+Example:
+Input: a[] = [2, 12, 4, 9, 18, 25, 3, 32, 20, 1]
+Output:
+
+Sum of one-digit numbers: 
+2+4+9+3+1=19
+Sum of two-digit numbers: 
+12+18+25+32+20=107
